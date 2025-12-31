@@ -1,4 +1,5 @@
-## Hi there 👋  My anme is Annika Malhotra and I am a current sophomore at Cornell University. 
+## Hi there 👋  
+My name is Annika Malhotra and I am a current sophomore at Cornell University. 
 I am interested in Cybersecurity and Software Development!  
 [LinkedIn](https://www.linkedin.com/in/annika-malhotra) 
 
