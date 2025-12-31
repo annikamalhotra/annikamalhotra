@@ -1,9 +1,11 @@
-## Hi there 👋  My anme is Annika Malhotra and I am a current sophomore at Cornell University. I am interested in Cybersecurity and Software Development!  
+## Hi there 👋  My anme is Annika Malhotra and I am a current sophomore at Cornell University. 
+I am interested in Cybersecurity and Software Development!  
+[LinkedIn](https://www.linkedin.com/in/annika-malhotra) 
+
 
 - I am studying Computer Science and Operation Information Engineering
-- LinkedIn : [here](https://www.linkedin.com/in/annika-malhotra) 
 - I know Java and Ocaml languages
-- My most recent project is an interactive Scrabble board game that uses GUI: [here](https://github.com/annikamalhotra/Scrabble.git)
+- My most recent project is an interactive [Scrabble board game](https://github.com/annikamalhotra/Scrabble.git) that uses GUI
 
 
 <!--
